@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RXCloudShop.iml" filepath="$PROJECT_DIR$/RXCloudShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common.iml" filepath="$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common-base/RXCloudShop-common-base.iml" filepath="$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common-base/RXCloudShop-common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common-config/RXCloudShop-common-config.iml" filepath="$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common-config/RXCloudShop-common-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common-core/RXCloudShop-common-core.iml" filepath="$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common-core/RXCloudShop-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RXCloudShop-provider/RXCloudShop-provider.iml" filepath="$PROJECT_DIR$/RXCloudShop-provider/RXCloudShop-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RXCloudShop-provider-api/RXCloudShop-provider-api.iml" filepath="$PROJECT_DIR$/RXCloudShop-provider-api/RXCloudShop-provider-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RXCloudShop-provider/RXCloudShop-provider-usc/RXCloudShop-provider-usc.iml" filepath="$PROJECT_DIR$/RXCloudShop-provider/RXCloudShop-provider-usc/RXCloudShop-provider-usc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RXCloudShop-provider-api/RXCloudShop-provider-usc-api/RXCloudShop-provider-usc-api.iml" filepath="$PROJECT_DIR$/RXCloudShop-provider-api/RXCloudShop-provider-usc-api/RXCloudShop-provider-usc-api.iml" />
+    </modules>
+  </component>
+</project>

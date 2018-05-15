@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-common/RXCloudShop-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-provider-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-provider-api/RXCloudShop-provider-usc-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-provider-api/RXCloudShop-provider-usc-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-provider/RXCloudShop-provider-usc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShop-provider/RXCloudShop-provider-usc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RXCloudShopproviderapi" charset="UTF-8" />
+  </component>
+</project>
